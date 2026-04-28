@@ -1,0 +1,1 @@
+console.log("MY father is my strength");
